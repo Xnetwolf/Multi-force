@@ -23,7 +23,7 @@ Currently this program has features such as:
 
 ## Quick Usage
 
-1. Run `main.py` and follow the instructions on screen 
+1. Run `main.py` by typing `python main.py`
 2. For the url option please make sure it point to login mechanize or use `https://facebook.com/login.php` to test it pn facebook
 3. Remenber to specifie if it's either `http` or `https`
 
