@@ -36,7 +36,8 @@ If you need any help at all, feel free to open a "help" issue.
 If you find any error, feel free to let me know
 
 ## Contributing
-
+Monero: `4AjmBwYjyBvCthXeUUvymdfnaZyjJG6spTHetqgziEasc5N5LB6HkZ2aGBTYfHTp9X1SqugDxib5dM24dJg8A2eHURpxyRu`
+Bitcoin: `bc1q4u6kxwcuzcnc0ggatzxvpskan9kul548mzq3e5`
 
 ## About
 
